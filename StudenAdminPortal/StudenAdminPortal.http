@@ -1,0 +1,6 @@
+@StudenAdminPortal_HostAddress = http://localhost:5056
+
+GET {{StudenAdminPortal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
