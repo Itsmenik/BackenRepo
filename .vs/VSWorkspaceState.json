@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\StudenAdminPortal",
-    "\\StudenAdminPortal\\Models"
+    "\\StudenAdminPortal\\Controllers",
+    "\\StudenAdminPortal\\Models",
+    "\\StudenAdminPortal\\Repositery"
   ],
-  "SelectedNode": "\\StudenAdminPortal\\Models\\Student.cs",
+  "SelectedNode": "\\StudenAdminPortal\\Models\\Gender.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\StudenAdminPortal\\StudenAdminPortal\\StudenAdminPortal.csproj": {}
+    "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\StudenAdminPortal.csproj": {}
   },
   "projects": {
-    "D:\\StudenAdminPortal\\StudenAdminPortal\\StudenAdminPortal.csproj": {
+    "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\StudenAdminPortal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\StudenAdminPortal\\StudenAdminPortal\\StudenAdminPortal.csproj",
+        "projectUniqueName": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\StudenAdminPortal.csproj",
         "projectName": "StudenAdminPortal",
-        "projectPath": "D:\\StudenAdminPortal\\StudenAdminPortal\\StudenAdminPortal.csproj",
+        "projectPath": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\StudenAdminPortal.csproj",
         "packagesPath": "C:\\Users\\VCSDEV0276\\.nuget\\packages\\",
-        "outputPath": "D:\\StudenAdminPortal\\StudenAdminPortal\\obj\\",
+        "outputPath": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",

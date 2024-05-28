@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nxbZrzaABQBMETsFH0BVyR+rJ080Pu6Y3nd2sf+MGnfk+/tTe4mP0LKP2sehyub3vpY51wS6PfMTMw8UTlX0vg==",
+  "dgSpecHash": "3K0iHnWkV+iVYNWNhy0brBnedio3+E0AL7KdmHpz7e1xrnT0xyA76e9G6YOH/wTNWh99jn/9scI7wx8xqsLZFg==",
   "success": true,
-  "projectFilePath": "D:\\StudenAdminPortal\\StudenAdminPortal\\StudenAdminPortal.csproj",
+  "projectFilePath": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\StudenAdminPortal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VCSDEV0276\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\VCSDEV0276\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

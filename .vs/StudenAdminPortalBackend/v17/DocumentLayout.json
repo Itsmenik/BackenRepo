@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Repositery\\StudentRepositery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudenAdminPortal\\Repositery\\StudentRepositery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Controllers\\StudentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudenAdminPortal\\Controllers\\StudentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Repositery\\IStudentRepositery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudenAdminPortal\\Repositery\\IStudentRepositery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Models\\Gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudenAdminPortal\\Models\\Gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Models\\Address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudenAdminPortal\\Models\\Address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepositery.cs",
+              "DocumentMoniker": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Repositery\\StudentRepositery.cs",
+              "RelativeDocumentMoniker": "StudenAdminPortal\\Repositery\\StudentRepositery.cs",
+              "ToolTip": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Repositery\\StudentRepositery.cs",
+              "RelativeToolTip": "StudenAdminPortal\\Repositery\\StudentRepositery.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:24:30.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudenAdminPortal\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudenAdminPortal\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:54:35.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentRepositery.cs",
+              "DocumentMoniker": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Repositery\\IStudentRepositery.cs",
+              "RelativeDocumentMoniker": "StudenAdminPortal\\Repositery\\IStudentRepositery.cs",
+              "ToolTip": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Repositery\\IStudentRepositery.cs",
+              "RelativeToolTip": "StudenAdminPortal\\Repositery\\IStudentRepositery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:18:40.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "StudenAdminPortal\\Models\\Gender.cs",
+              "ToolTip": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Models\\Gender.cs",
+              "RelativeToolTip": "StudenAdminPortal\\Models\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T03:48:31.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "StudenAdminPortal\\Models\\Address.cs",
+              "ToolTip": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Models\\Address.cs",
+              "RelativeToolTip": "StudenAdminPortal\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T04:34:16.496Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

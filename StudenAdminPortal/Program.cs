@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using StudenAdminPortal.Data;
+using StudenAdminPortal.Repositery;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,7 +11,19 @@ var configuration = builder.Configuration;
 
 // Add services to the container.
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer(configuration.GetConnectionString("Studentconnection")));
+    options.UseSqlServer("Data Source = 10.168.16.78\\MSSQLSRV2019; Initial Catalog = SQLTraining; User ID = AWLDhrishti; Password=AWLDhrishti;Encrypt=False"));
+
+builder.Services.AddScoped<IStudentRepositery, StudentRepositery>();
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("angularApplication", (builder) =>
+    {
+        builder.WithOrigins("http://localhost:4200/").AllowAnyOrigin()
+        .AllowAnyHeader()
+        .WithMethods("GET", "POST", "PUT", "DELETE")
+        .WithExposedHeaders("*");
+    });
+});
 
 builder.Services.AddControllers();
 
@@ -27,13 +40,21 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseCors("angularApplication");
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
 app.MapControllers();
 
-app.Run();
+app.Run(); 
+
+
+
+ 
+
+
+
 
 
 

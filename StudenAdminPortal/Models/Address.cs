@@ -8,7 +8,5 @@
 
     public int StudentId { get; set; } 
 
-
-
     }
 }

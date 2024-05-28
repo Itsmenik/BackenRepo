@@ -1,40 +1,64 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\StudenAdminPortal\\",
+  "WorkspaceRootPath": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|d:\\studenadminportal\\studenadminportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|solutionrelative:studenadminportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|d:\\smallprgwithangandapsapi\\studenadminportalbackend\\studenadminportal\\repositery\\studentrepositery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|solutionrelative:studenadminportal\\repositery\\studentrepositery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|d:\\studenadminportal\\studenadminportal\\studenadminportal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|solutionrelative:studenadminportal\\studenadminportal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|d:\\smallprgwithangandapsapi\\studenadminportalbackend\\studenadminportal\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|solutionrelative:studenadminportal\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|d:\\studenadminportal\\studenadminportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|solutionrelative:studenadminportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|d:\\studenadminportal\\studenadminportal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|d:\\smallprgwithangandapsapi\\studenadminportalbackend\\studenadminportal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|solutionrelative:studenadminportal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|d:\\studenadminportal\\studenadminportal\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|d:\\smallprgwithangandapsapi\\studenadminportalbackend\\studenadminportal\\studenadminportal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|solutionrelative:studenadminportal\\studenadminportal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|d:\\smallprgwithangandapsapi\\studenadminportalbackend\\studenadminportal\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|solutionrelative:studenadminportal\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|d:\\studenadminportal\\studenadminportal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|d:\\smallprgwithangandapsapi\\studenadminportalbackend\\studenadminportal\\repositery\\istudentrepositery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|solutionrelative:studenadminportal\\repositery\\istudentrepositery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|d:\\smallprgwithangandapsapi\\studenadminportalbackend\\studenadminportal\\models\\updatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|solutionrelative:studenadminportal\\models\\updatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|d:\\smallprgwithangandapsapi\\studenadminportalbackend\\studenadminportal\\controllers\\gendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|solutionrelative:studenadminportal\\controllers\\gendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|d:\\smallprgwithangandapsapi\\studenadminportalbackend\\studenadminportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|solutionrelative:studenadminportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|d:\\smallprgwithangandapsapi\\studenadminportalbackend\\studenadminportal\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|solutionrelative:studenadminportal\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|d:\\smallprgwithangandapsapi\\studenadminportalbackend\\studenadminportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|solutionrelative:studenadminportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|d:\\smallprgwithangandapsapi\\studenadminportalbackend\\studenadminportal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|solutionrelative:studenadminportal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|d:\\studenadminportal\\studenadminportal\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|solutionrelative:studenadminportal\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|d:\\smallprgwithangandapsapi\\studenadminportalbackend\\studenadminportal\\migrations\\20240509095901_addstudenttodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDCB56F-C36C-436A-9ED1-A1B9200EB982}|StudenAdminPortal\\StudenAdminPortal.csproj|solutionrelative:studenadminportal\\migrations\\20240509095901_addstudenttodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 209,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -46,77 +70,146 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\StudenAdminPortal\\StudenAdminPortal\\appsettings.json",
-              "RelativeDocumentMoniker": "StudenAdminPortal\\appsettings.json",
-              "ToolTip": "D:\\StudenAdminPortal\\StudenAdminPortal\\appsettings.json",
-              "RelativeToolTip": "StudenAdminPortal\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-09T06:57:22.676Z",
+              "DocumentIndex": 6,
+              "Title": "UpdateStudent.cs",
+              "DocumentMoniker": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Models\\UpdateStudent.cs",
+              "RelativeDocumentMoniker": "StudenAdminPortal\\Models\\UpdateStudent.cs",
+              "ToolTip": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Models\\UpdateStudent.cs",
+              "RelativeToolTip": "StudenAdminPortal\\Models\\UpdateStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:15:42.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenderController.cs",
+              "DocumentMoniker": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Controllers\\GenderController.cs",
+              "RelativeDocumentMoniker": "StudenAdminPortal\\Controllers\\GenderController.cs",
+              "ToolTip": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Controllers\\GenderController.cs",
+              "RelativeToolTip": "StudenAdminPortal\\Controllers\\GenderController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:05:26.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepositery.cs",
+              "DocumentMoniker": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Repositery\\StudentRepositery.cs",
+              "RelativeDocumentMoniker": "StudenAdminPortal\\Repositery\\StudentRepositery.cs",
+              "ToolTip": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Repositery\\StudentRepositery.cs",
+              "RelativeToolTip": "StudenAdminPortal\\Repositery\\StudentRepositery.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwCcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:51:16.983Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\StudenAdminPortal\\StudenAdminPortal\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "StudenAdminPortal\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\StudenAdminPortal\\StudenAdminPortal\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "StudenAdminPortal\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Title": "IStudentRepositery.cs",
+              "DocumentMoniker": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Repositery\\IStudentRepositery.cs",
+              "RelativeDocumentMoniker": "StudenAdminPortal\\Repositery\\IStudentRepositery.cs",
+              "ToolTip": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Repositery\\IStudentRepositery.cs",
+              "RelativeToolTip": "StudenAdminPortal\\Repositery\\IStudentRepositery.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T06:41:29.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T11:50:01.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\StudenAdminPortal\\StudenAdminPortal\\Program.cs",
-              "RelativeDocumentMoniker": "StudenAdminPortal\\Program.cs",
-              "ToolTip": "D:\\StudenAdminPortal\\StudenAdminPortal\\Program.cs",
-              "RelativeToolTip": "StudenAdminPortal\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "DocumentIndex": 12,
+              "Title": "20240509095901_AddStudentToDb.cs",
+              "DocumentMoniker": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Migrations\\20240509095901_AddStudentToDb.cs",
+              "RelativeDocumentMoniker": "StudenAdminPortal\\Migrations\\20240509095901_AddStudentToDb.cs",
+              "ToolTip": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Migrations\\20240509095901_AddStudentToDb.cs",
+              "RelativeToolTip": "StudenAdminPortal\\Migrations\\20240509095901_AddStudentToDb.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T06:27:23.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T09:59:02.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\appsettings.json",
+              "RelativeDocumentMoniker": "StudenAdminPortal\\appsettings.json",
+              "ToolTip": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\appsettings.json",
+              "RelativeToolTip": "StudenAdminPortal\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T06:57:22.676Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StudenAdminPortal",
-              "DocumentMoniker": "D:\\StudenAdminPortal\\StudenAdminPortal\\StudenAdminPortal.csproj",
-              "RelativeDocumentMoniker": "StudenAdminPortal\\StudenAdminPortal.csproj",
-              "ToolTip": "D:\\StudenAdminPortal\\StudenAdminPortal\\StudenAdminPortal.csproj",
-              "RelativeToolTip": "StudenAdminPortal\\StudenAdminPortal.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-09T06:23:10.949Z",
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudenAdminPortal\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudenAdminPortal\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswCgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:07:39.869Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Address.cs",
-              "DocumentMoniker": "D:\\StudenAdminPortal\\StudenAdminPortal\\Models\\Address.cs",
-              "RelativeDocumentMoniker": "StudenAdminPortal\\Models\\Address.cs",
-              "ToolTip": "D:\\StudenAdminPortal\\StudenAdminPortal\\Models\\Address.cs",
-              "RelativeToolTip": "StudenAdminPortal\\Models\\Address.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudenAdminPortal\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudenAdminPortal\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T06:12:12.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T06:41:29.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Program.cs",
+              "RelativeDocumentMoniker": "StudenAdminPortal\\Program.cs",
+              "ToolTip": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Program.cs",
+              "RelativeToolTip": "StudenAdminPortal\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:27:23.612Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "StudenAdminPortal",
+              "DocumentMoniker": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\StudenAdminPortal.csproj",
+              "RelativeDocumentMoniker": "StudenAdminPortal\\StudenAdminPortal.csproj",
+              "ToolTip": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\StudenAdminPortal.csproj",
+              "RelativeToolTip": "StudenAdminPortal\\StudenAdminPortal.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-09T06:23:10.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "StudenAdminPortal\\Models\\Address.cs",
+              "ToolTip": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Models\\Address.cs",
+              "RelativeToolTip": "StudenAdminPortal\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:12:12.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\StudenAdminPortal\\StudenAdminPortal\\Models\\Student.cs",
+              "DocumentMoniker": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Models\\Student.cs",
               "RelativeDocumentMoniker": "StudenAdminPortal\\Models\\Student.cs",
-              "ToolTip": "D:\\StudenAdminPortal\\StudenAdminPortal\\Models\\Student.cs",
+              "ToolTip": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Models\\Student.cs",
               "RelativeToolTip": "StudenAdminPortal\\Models\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T06:10:04.081Z",
               "EditorCaption": ""
@@ -125,14 +218,13 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Gender.cs",
-              "DocumentMoniker": "D:\\StudenAdminPortal\\StudenAdminPortal\\Models\\Gender.cs",
+              "DocumentMoniker": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Models\\Gender.cs",
               "RelativeDocumentMoniker": "StudenAdminPortal\\Models\\Gender.cs",
-              "ToolTip": "D:\\StudenAdminPortal\\StudenAdminPortal\\Models\\Gender.cs",
+              "ToolTip": "D:\\Smallprgwithangandapsapi\\StudenAdminPortalBackend\\StudenAdminPortal\\Models\\Gender.cs",
               "RelativeToolTip": "StudenAdminPortal\\Models\\Gender.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T06:09:01.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T06:09:01.857Z"
             }
           ]
         }
